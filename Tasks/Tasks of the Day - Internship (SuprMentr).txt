@@ -1,0 +1,144 @@
+Today's Task:
+ 4 or 5 clusters
+
+Mall Customer Segmentation
+
+Create dataset with:
+
+Age
+Annual Income
+Spending Score
+
+Steps
+
+1. Create dataframe
+2. Apply KMeans
+3. Plot clusters
+4. Display centroids
+
+06-03-26
+Assignment 1
+
+Build a Loan Approval Prediction Model
+
+Features:
+
+income
+credit_score
+loan_amount
+employment_years
+
+Target:
+
+loan_approved (0/1)
+
+Steps:
+
+create dataset
+train model
+evaluate accuracy
+predict new customer
+
+
+
+
+13-03-2026
+
+Task 1: Build Text Preprocessing Tool
+
+Create a program that:
+
+Input:
+
+"I am learning NLP and it is very exciting!!!"
+
+Your program should:
+
+convert to lowercase
+
+remove punctuation
+
+tokenize text
+
+remove stopwords
+
+apply stemming
+
+Output example:
+
+['learn','nlp','excit']
+
+[16-03-2026]
+Broadcast to all
+Sentiment Vectorization
+
+Dataset
+
+I love this movie
+This movie is terrible
+Amazing acting
+Worst film ever
+
+Students must:
+
+1. Apply Bag of Words
+2. Apply TF-IDF
+3. Print matrices
+4. Compare results
+
+Extra:
+
+Visualize using pandas dataframe
+
+17-03-2026
+
+Task 1: Movie Review Classifier
+
+ Build a model:
+
+Dataset: 20+ sentences
+
+Classes: Positive / Negative / Neutral
+
+ Bonus:
+
+Use TF-IDF instead of CountVectorizer
+
+https://github.com/Navya-Achar-3051/AIML-INTERNSHIP-ASSIGNEMNT.git
+
+
+
+________________________________________________________________________________
+TASK - 17/03/2026                                                              |
+-------------------------------------------------------------------------------|
+Task 1: Movie Review Classifier						       |
+Build a model:                                                                 | 
+Dataset: 20+ sentences							       |
+Classes: Positive / Negative / Neutral                                         |
+Bonus:									       |
+Use TF-IDF instead of CountVectorizer                                          |                                  |								               |
+_______________________________________________________________________________|
+TASK - 23/03/2026                                                              |
+-------------------------------------------------------------------------------|
+                                                                               |
+Train a Mini Word2Vec Model						       |
+Task:									       |
+									       |
+Create your own small dataset of at least 15 sentences on any topic like:      |
+									       |
+sports									       |
+food 									       |
+movies									       |
+college life								       |
+                                                                               |
+Train a Word2Vec model and print:					       |
+									       |
+vector of one word							       |
+5 most similar words for any chosen word				       |
+Expected outcome: understand how embeddings are learned from context.          |
+_______________________________________________________________________________|
+TASK - 25/03/2026                                                              |
+-------------------------------------------------------------------------------|
+                                                                               |
+								               |
+_______________________________________________________________________________|

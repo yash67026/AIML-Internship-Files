@@ -1,0 +1,29 @@
+1. Google Search
+   Uses ML models to rank web pages by relevance based on past searches, keywords, and user behavior.
+
+2. YouTube Recommendations
+   ML analyzes watch history, likes, and viewing time to suggest videos similar to user interests.
+
+3. Smartphone Face Unlock
+   Uses deep learning to recognize facial features and match them with stored facial data.
+
+4. Google Maps Navigation
+   ML predicts traffic conditions using historical data and real-time location information from users.
+
+5. Email Spam Filter (Gmail)
+   ML classifies emails as spam or safe by learning from previously labeled emails.
+
+6. Voice Assistants (Google Assistant / Siri)
+   Speech recognition models convert voice to text and NLP models understand user commands.
+
+7. Autocorrect & Predictive Text
+   ML predicts the next word or correct spelling based on language patterns and past typing behavior.
+
+8. Netflix Recommendations
+   ML studies viewing history and compares it with similar users to suggest movies and series.
+
+9. Online Shopping Suggestions (Amazon / Flipkart)
+   Recommendation systems use ML to analyze browsing, purchases, and ratings to suggest products.
+
+10. Social Media Feed (Instagram / X)
+    ML ranks posts by predicting what the user is most likely to engage with (likes, comments, shares).
